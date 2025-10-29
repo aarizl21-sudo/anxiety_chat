@@ -880,7 +880,7 @@ CHAT_HTML = '''
                     addBot("⚠️ Tus respuestas indican un nivel elevado de ansiedad.");
                     setTimeout(() => addBot("Te recomiendo hablar con un profesional de salud mental para recibir apoyo personalizado."), 2000);
                     setTimeout(() => addBot("No estás solo(a). Pedir ayuda no es debilidad, es un paso valiente 💚."), 4000);
-                    setTimeout(() => addBot("📞 Universidad: bienestar@curn.edu.co | Línea 24/7: 01 8000 123 456"), 6000);
+                    setTimeout(() => addBot("📞 Universidad: bienestar@curnvirtual.edu.co | Línea 24/7: 01 8000 1119"), 6000);
                 }
             }, 2500);
             
