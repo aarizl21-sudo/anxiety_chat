@@ -1,0 +1,499 @@
+{
+  "Angel Ariz": [
+    {
+      "timestamp": "2025-10-27T14:48:14.665731",
+      "message": "He tenido dolores en el pecho",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Las palpitaciones o sensación de presión en el pecho son síntomas físicos comunes de la ansiedad. Tu corazón late más rápido porque tu cuerpo está en modo alerta.",
+          "recommendation": "❤️ Respiración consciente: Siéntate, respira lenta y profundamente. Esto envía señales de calma a tu cerebro. Si son muy frecuentes, consulta a un médico."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:48:52.498390",
+      "message": "muchas cargas",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:48:55.859587",
+      "message": "estres",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:49:01.698841",
+      "message": "laboral",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:50:49.226038",
+      "message": "tengo estres",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico o laboral constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:51:14.026841",
+      "message": "si",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-27T14:52:01.679889",
+      "message": "tengo mucho estres",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico o laboral constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:03:02.863704",
+      "message": "tengo dolor de cabeza",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "El miedo intenso o ataques de pánico son episodios de miedo repentino muy fuerte. Puede ser muy aterrador, pero no es peligroso y pasa en 10-15 minutos.",
+          "recommendation": "🆘 Durante un ataque: Respira lento, nombra 5 cosas que ves, 4 que tocas, 3 que escuchas (técnica 5-4-3-2-1). Si son frecuentes, busca terapia."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:03:24.338456",
+      "message": "tengo insomnio",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Los problemas de sueño son muy comunes cuando hay ansiedad. El insomnio puede estar relacionado con preocupaciones constantes que no nos dejan descansar.",
+          "recommendation": "🌙 Establece un horario fijo para dormir (7-8 horas), evita pantallas 1 hora antes, crea un ambiente oscuro y fresco. Prueba técnicas de relajación muscular."
+        },
+        {
+          "type": "symptom",
+          "message": "El miedo intenso o ataques de pánico son episodios de miedo repentino muy fuerte. Puede ser muy aterrador, pero no es peligroso y pasa en 10-15 minutos.",
+          "recommendation": "🆘 Durante un ataque: Respira lento, nombra 5 cosas que ves, 4 que tocas, 3 que escuchas (técnica 5-4-3-2-1). Si son frecuentes, busca terapia."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:21:21.060566",
+      "message": "Triste",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La tristeza puede acompañar a la ansiedad. Es normal sentirte abrumado(a). La tristeza persistente junto con ansiedad requiere apoyo adicional.",
+          "recommendation": "💚 Habla con alguien de confianza. Mantén una rutina diaria. Sal al sol 15 minutos. Si dura más de 2 semanas, busca ayuda profesional."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:21:38.654765",
+      "message": "Mucho dolor",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:21:55.832587",
+      "message": "Intenso dolor",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Entiendo que te sientes nervioso(a) o tenso(a). La ansiedad es una emoción completamente normal, es una respuesta natural del cuerpo ante el estrés.",
+          "recommendation": "💙 Técnica de respiración 4-2-6: Inhala por la nariz contando hasta 4, retén 2 segundos, exhala por la boca contando hasta 6. Repite durante 5 minutos."
+        },
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:22:09.040750",
+      "message": "Dolor muy fuerte",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:33:44.104648",
+      "message": "Tengo estres laboral",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        },
+        {
+          "type": "symptom",
+          "message": "El estrés laboral es una causa importante de ansiedad. El ambiente de trabajo, carga laboral y relaciones laborales pueden afectarte.",
+          "recommendation": "💼 Establece límites claros trabajo-vida personal, toma descansos, comunica sobrecarga. Si es tóxico, considera cambiar. Tu salud es primero."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:34:26.187048",
+      "message": "estres laboral",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        },
+        {
+          "type": "symptom",
+          "message": "El estrés laboral es una causa importante de ansiedad. El ambiente de trabajo, carga laboral y relaciones laborales pueden afectarte.",
+          "recommendation": "💼 Establece límites claros trabajo-vida personal, toma descansos, comunica sobrecarga. Si es tóxico, considera cambiar. Tu salud es primero."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:34:34.696926",
+      "message": "si",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:34:43.895161",
+      "message": "dolor de cabeza",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Los dolores de cabeza tensionales son muy comunes con la ansiedad. La tensión en cuello y hombros puede causar dolor que dura horas.",
+          "recommendation": "🧊 Masajea sienes y cuello, aplica frío o calor, descansa en lugar oscuro, estira el cuello suavemente, mantente hidratado."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:34:52.209594",
+      "message": "insomnio",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Los problemas de sueño son muy comunes cuando hay ansiedad. El insomnio puede estar relacionado con preocupaciones constantes que no nos dejan descansar.",
+          "recommendation": "🌙 Establece un horario fijo para dormir (7-8 horas), evita pantallas 1 hora antes, crea un ambiente oscuro y fresco. Prueba técnicas de relajación muscular."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:35:40.509487",
+      "message": "dolor en el cuerpo",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:38:47.910766",
+      "message": "he tenido mucha tristeza y he llorado mucho",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La tristeza puede acompañar a la ansiedad. Es normal sentirte abrumado(a). La tristeza persistente junto con ansiedad requiere apoyo adicional.",
+          "recommendation": "💚 Habla con alguien de confianza. Mantén una rutina diaria. Sal al sol 15 minutos. Si dura más de 2 semanas, busca ayuda profesional."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:39:03.670875",
+      "message": "tengo mucho estres",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El estrés académico o laboral constante es una causa muy común de ansiedad en estudiantes. Las exigencias pueden generar una carga muy pesada.",
+          "recommendation": "📚 Organiza tus tareas con prioridades, divide proyectos grandes, aprende a decir no, toma descansos. Tu salud mental es más importante."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:40:10.191555",
+      "message": "triste",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La tristeza puede acompañar a la ansiedad. Es normal sentirte abrumado(a). La tristeza persistente junto con ansiedad requiere apoyo adicional.",
+          "recommendation": "💚 Habla con alguien de confianza. Mantén una rutina diaria. Sal al sol 15 minutos. Si dura más de 2 semanas, busca ayuda profesional."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:40:24.225847",
+      "message": "problemas de concentracion",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La dificultad para concentrarse es un síntoma cognitivo frecuente de la ansiedad. Tu cerebro está usando recursos en preocuparte.",
+          "recommendation": "🧠 Técnica Pomodoro: Estudia 25 minutos con foco total, descansa 5 minutos. Elimina distracciones. Practica mindfulness 10 minutos diarios."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:40:35.049270",
+      "message": "tengo dolor de estomago",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:40:42.472997",
+      "message": "estomago revuelto",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:41:41.877766",
+      "message": "dolor de estomago",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:41:58.627273",
+      "message": "dolor de estomago",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:42:15.115753",
+      "message": "malestar estomacal",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:43:24.000765",
+      "message": "malestar estomacal",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:43:30.464337",
+      "message": "malestar",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T11:44:09.096535",
+      "message": "ganas de vomitar",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:04:58.584086",
+      "message": "un poco triste",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La tristeza puede acompañar a la ansiedad. Es normal sentirte abrumado(a). La tristeza persistente junto con ansiedad requiere apoyo adicional.",
+          "recommendation": "💚 Habla con alguien de confianza. Mantén una rutina diaria. Sal al sol 15 minutos. Si dura más de 2 semanas, busca ayuda profesional."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:05:14.207268",
+      "message": "tengo ganas de vomitar",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "Las molestias estomacales están muy vinculadas a la ansiedad. Existe una conexión directa entre tu cerebro y tu sistema digestivo.",
+          "recommendation": "🍃 Come porciones pequeñas y frecuentes, evita café y picante. Toma infusiones de manzanilla. Si persiste, consulta a un gastroenterólogo."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:05:24.209271",
+      "message": "tengo dolor",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:05:30.976021",
+      "message": "migraña",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:06:24.042527",
+      "message": "migraña",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:06:36.247769",
+      "message": "terminamos",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T12:08:08.772966",
+      "message": "triste",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "La tristeza puede acompañar a la ansiedad. Es normal sentirte abrumado(a). La tristeza persistente junto con ansiedad requiere apoyo adicional.",
+          "recommendation": "💚 Habla con alguien de confianza. Mantén una rutina diaria. Sal al sol 15 minutos. Si dura más de 2 semanas, busca ayuda profesional."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T13:13:24.963485",
+      "message": "He estado con dolor de cabeza",
+      "responses": [
+        {
+          "type": "symptom",
+          "message": "El dolor físico puede estar muy relacionado con la ansiedad. Cuando estamos ansiosos, nuestros músculos se tensan y esto causa dolor en cuello, hombros, espalda y cabeza.",
+          "recommendation": "🌿 Aplica calor local, haz estiramientos suaves, practica relajación muscular progresiva. Si el dolor es intenso o persistente, consulta a un doctor."
+        },
+        {
+          "type": "symptom",
+          "message": "Los dolores de cabeza tensionales son muy comunes con la ansiedad. La tensión en cuello y hombros puede causar dolor que dura horas.",
+          "recommendation": "🧊 Masajea sienes y cuello, aplica frío o calor, descansa en lugar oscuro, estira el cuello suavemente, mantente hidratado."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-10-28T14:47:05.706107",
+      "message": "Estoy bien",
+      "responses": [
+        {
+          "type": "general",
+          "message": "Gracias por compartir eso conmigo. Tus emociones son importantes. ¿Podrías contarme un poco más sobre cómo te has sentido?",
+          "recommendation": null
+        }
+      ]
+    }
+  ]
+}
